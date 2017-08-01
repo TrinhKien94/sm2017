@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\day_layout.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\calendar_layout.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\week_layout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\day_layout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\week_layout.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\calendar_layout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\day_layout.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\calendar_layout.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\layout\\week_layout.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\layout\\week_layout.xml"
+    }
+]

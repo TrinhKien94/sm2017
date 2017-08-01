@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dip"
+    >
+
+
+    <LinearLayout android:orientation="vertical"
+        android:id="@+id/lesson_item"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dip">
+
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/leson_nm"
+            android:text="leson_nm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip">
+        </TextView>
+
+        <TextView
+            android:text="teacher_nm"
+            android:id="@+id/teacher_nm"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:singleLine="true" android:padding="1px"
+            android:textColor="#72A8C6">
+        </TextView>
+
+        <TextView
+            android:id="@+id/lesson_time"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="time">
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="right">
+
+        <Button
+            android:id="@+id/btn_lesson_detail"
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|fill_vertical"
+            android:gravity="right|center_horizontal|fill"
+            android:padding="5dip"
+            android:singleLine="true"
+            android:background="@drawable/ic_arrow_right_2"
+            android:text="" />
+    </LinearLayout>
+</LinearLayout>

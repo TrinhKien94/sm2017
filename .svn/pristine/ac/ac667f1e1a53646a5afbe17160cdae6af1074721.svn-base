@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

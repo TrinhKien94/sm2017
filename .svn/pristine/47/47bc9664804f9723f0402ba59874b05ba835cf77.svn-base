@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView android:textStyle="bold"
+        android:id="@+id/label_top_sc"
+        android:text="label_top_sc"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@color/background"
+        android:singleLine="true"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:paddingLeft="5dip"
+        >
+    </TextView>
+    <Spinner
+        android:id="@+id/planets_spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <CalendarView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/calendar"></CalendarView>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="30dip"
+        android:id="@+id/list_lesson">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>

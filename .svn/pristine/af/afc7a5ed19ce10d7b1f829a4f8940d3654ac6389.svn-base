@@ -1,0 +1,76 @@
+package com.tc.cmcglobal.Adapter;
+
+import android.content.Context;
+import android.support.v7.widget.RecyclerView;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.tc.cmcglobal.R;
+import com.tc.cmcglobal.entities.Student;
+
+import java.util.List;
+
+
+/**
+ * Created by Quan Lee on 7/10/17.
+ */
+
+public class LessonStudentAdapter extends RecyclerView.Adapter{
+    List<Student> students;
+    Context context ;
+    public LessonStudentAdapter(Context context , List students){
+        this.context = context;
+        this.students = students;
+
+    }
+    @Override
+    public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        //View view = LayoutInflater.from(context).inflate(student , parent, false);
+       View view = LayoutInflater.from(context).inflate(R.layout.list_student , parent, false);
+        return new ViewHolder(view);
+    }
+
+    @Override
+    public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
+        // set onclick
+        final Student student = students.get(position);
+
+        Log.d("studentstudent", "onBindViewHolder: "+ student);
+        ((ViewHolder)holder).mTextView.setText("講義名: "+student.first_nm);
+        ((ViewHolder)holder).mTextView1.setText("担当教員： "+student.last_nm);
+        ((ViewHolder)holder).mTextView2.setText("担当教員： "+student.user_id);
+        ((ViewHolder)holder).mTextView3.setText(student.status);
+//        ((ViewHolder)holder).mTextView4.setImageResource(student.avatar););
+
+
+        //((ViewHolder)holder).mTextView2.setText("日付："+student.card_id+"（金）"+student.card_type+"－"+student.user_id+"\n");
+
+    }
+
+    @Override
+    public int getItemCount() {
+        return students.size();
+    }
+    public class ViewHolder extends RecyclerView.ViewHolder{
+        private TextView mTextView ;
+        private TextView mTextView1 ;
+        private TextView mTextView2 ;
+        private TextView mTextView3 ;
+        private ImageView mTextView4 ;
+        public ViewHolder(View itemView) {
+            super(itemView);
+            mTextView = (TextView)itemView.findViewById(R.id.std_nm_cana);
+            mTextView1 = (TextView)itemView.findViewById(R.id.std_nm_canji);
+            mTextView2 = (TextView)itemView.findViewById(R.id.std_id);
+            mTextView3 = (TextView)itemView.findViewById(R.id.std_stt);
+            mTextView4 = (ImageView)itemView.findViewById(R.id.img_location);
+
+        }
+    }
+
+
+}

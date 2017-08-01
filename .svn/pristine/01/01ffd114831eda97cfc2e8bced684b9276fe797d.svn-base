@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAccent">#009688</color>
+    <color name="buttonGreen">#009688</color>
+
+    <color name="buttonBlue">#42A5F5</color>
+    <color name="buttonBlack">#212121</color>
+    <color name="priceBtn">#349512</color>
+    <color name="background">#E5E5E5</color>
+    <color name="textGray">#333333</color>
+    <color name="textGreen">#349512</color>
+    <color name="headerDark">#212121</color>
+    <color name="textPink">#DF7FC3</color>
+    <color name="total_payment">#999999</color>
+    <color name="menuText">#000000</color>
+    <color name="headerGray">#AAAAAA</color>
+    <color name="backBtn">#E5E5E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#99FFFFFF</color>
+
+
+    <color name="navbar_bottom">#42A5F5</color>
+    <color name="bar_list">#1565C0</color>
+
+    <color name="status_red">#D32F2F</color>
+    <color name="status_green">#66BB6A</color>
+    <color name="status_orange">#FF8A65</color>
+    <color name="status_amber">#FF6F00</color>
+
+
+
+    <color name="bot_edit_teacher">#03A9F4</color>
+    <color name="bot_cancel">#F44336</color>
+    <color name="bot_commit">#03A9F4</color>
+
+
+    <color name="back_list_ok">#90CAF9</color>
+    <color name="back_di_muon">#FF9E80</color>
+    <color name="back_ko_di">#FFCCBC</color>
+</resources>

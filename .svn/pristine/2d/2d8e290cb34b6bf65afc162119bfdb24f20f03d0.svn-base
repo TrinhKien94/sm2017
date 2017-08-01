@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_nav_items.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\menu\\bottom_nav_items.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filter.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\menu\\filter.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_nav_items.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\menu\\bottom_nav_items.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\products.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\menu\\products.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filter.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\menu\\filter.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_nav_items.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\menu\\bottom_nav_items.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\products.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\menu\\products.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filter.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\menu\\filter.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\products.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\menu\\products.xml"
+    }
+]

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:padding="10dp"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/sample1"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+        android:id="@+id/productTitle"
+        android:layout_toRightOf="@id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/car_title"
+        android:layout_marginBottom="5dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/brand"
+        android:layout_below="@id/productTitle"
+        android:layout_toRightOf="@id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_brand"
+        android:textColor="@color/textGray"/>
+
+    <RelativeLayout
+        android:id="@+id/quantityContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image"
+        android:layout_below="@id/brand">
+        <TextView
+            android:id="@+id/lblQuantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/quantity"
+            android:textColor="@color/textGray"/>
+        <ImageButton
+            android:id="@+id/btnMinus"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_toRightOf="@id/lblQuantity"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/icon_minus"
+            android:scaleType="centerInside"
+            android:background="@android:color/transparent"/>
+        <TextView
+            android:id="@+id/quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/btnMinus"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:text="@string/sample_quantity"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+        <ImageButton
+            android:id="@+id/btnPlus"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_toRightOf="@id/quantity"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/icon_plus"
+            android:scaleType="centerInside"
+            android:background="@android:color/transparent"/>
+
+        <View
+            android:id="@+id/quantitySeparator"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@android:color/darker_gray"
+            android:layout_below="@id/btnPlus"/>
+    </RelativeLayout>
+
+
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_below="@id/quantityContainer"
+        android:layout_toRightOf="@id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/car_price"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/quantityContainer"
+        android:drawableLeft="@drawable/icon_delete"
+        android:background="@android:color/transparent"
+        android:text="@string/delete"
+        android:textColor="@color/textGray"/>
+
+
+</RelativeLayout>

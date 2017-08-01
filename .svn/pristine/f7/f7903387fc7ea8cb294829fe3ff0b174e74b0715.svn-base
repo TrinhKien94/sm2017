@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dip"
+    android:background="@drawable/border_list_std"
+
+    >
+
+    <ImageView android:id="@+id/img_location"
+        android:layout_gravity="center_vertical"
+        android:adjustViewBounds="true"
+        android:layout_width="81dp"
+        android:layout_height="80dp"
+        android:padding="8dip"
+        android:src="@drawable/profile"
+        android:layout_weight="0.17"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/layout_tv_ls">
+    </ImageView>
+
+    <LinearLayout android:orientation="vertical"
+        android:id="@+id/list_student"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dip">
+
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/std_nm_cana"
+            android:text="student_name_cana"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip">
+        </TextView>
+        <TextView
+            android:id="@+id/std_nm_canji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="student_name_canji">
+        </TextView>
+        <TextView
+            android:id="@+id/std_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student ID"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/std_stt"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@+id/layout_tv_ls"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="2dp"
+        android:gravity="right|center_horizontal|fill"
+        android:padding="5dip"
+        android:singleLine="true"
+        android:text="std_stt"></Button>
+
+</LinearLayout>

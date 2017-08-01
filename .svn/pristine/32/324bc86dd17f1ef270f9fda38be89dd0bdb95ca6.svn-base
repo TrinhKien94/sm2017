@@ -1,0 +1,32 @@
+package com.tc.cmcglobal.fragments;
+
+import android.support.v4.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+
+import com.tc.cmcglobal.R;
+
+/**
+ * Created by Admin on 7/24/2017.
+ */
+
+public class SettingFragment extends Fragment{
+
+    public static SettingFragment getInstance() {
+        SettingFragment fragment = new SettingFragment();
+        return fragment;
+    }
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.setting, container, false);
+    }
+}

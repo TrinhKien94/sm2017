@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/kl/.android/build-cache/f7520ce63bd05a5cdc088c6ca219b58ad5384ae8/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/kl/.android/build-cache/f7520ce63bd05a5cdc088c6ca219b58ad5384ae8/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/kl/.android/build-cache/f7520ce63bd05a5cdc088c6ca219b58ad5384ae8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/kl/.android/build-cache/f7520ce63bd05a5cdc088c6ca219b58ad5384ae8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/kl/.android/build-cache/29966587060367636c5f31f6e485f36652f13fac/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/res/merged/debug/drawable-v21/sample1.jpg",
+        "source": "/home/kl/AndroidStudioProjects/Android-application/app/src/main/res/drawable-v21/sample1.jpg"
+    }
+]

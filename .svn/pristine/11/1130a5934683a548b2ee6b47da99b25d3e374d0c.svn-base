@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_normal.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_normal.png",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_normal.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_disabled.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_disabled.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_pressed.png",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_pressed.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_disabled.png",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_disabled.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_pressed.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_pressed.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_pressed.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_normal.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_normal.png",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_normal.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_disabled.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_disabled.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_disabled.png",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_disabled.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_disabled.png",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_disabled.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_disabled.png",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_disabled.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_pressed.png",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_left_pressed.png",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_pressed.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_pressed.png",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_pressed.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_arrow_right_normal.png",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_right_normal.png"
+    }
+]

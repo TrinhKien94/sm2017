@@ -1,0 +1,207 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sm.cmcglobal.fragments.CheckoutFragment"
+    android:background="@color/background">
+
+
+    <LinearLayout
+        android:id="@+id/viewItems"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/headerDark"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/totalCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/total_vehicles"
+                android:layout_centerVertical="true"
+                android:textColor="@color/headerGray"/>
+
+            <TextView
+                android:id="@+id/totalAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="@string/sample_total_price"
+                android:layout_centerVertical="true"
+                android:textSize="20sp"
+                android:textColor="@android:color/white"/>
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="15dp"
+            android:gravity="center_vertical"
+            android:text="@string/select_method"
+            android:textColor="@color/textGray"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+
+            android:layout_weight="1">
+            <RelativeLayout
+                android:id="@+id/pmc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:background="@android:color/white"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+                <ImageView
+                    android:id="@+id/cimage"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/credit_card"/>
+
+                <TextView
+                    android:id="@+id/ctitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/cimage"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/creditcard"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/black"/>
+
+                <TextView
+                    android:id="@+id/cdesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/cimage"
+                    android:layout_below="@id/ctitle"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="50dp"
+                    android:textColor="@color/textGray"
+                    android:text="@string/credit_accept" />
+
+                <ImageView
+                    android:id="@+id/selectCredit"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/select_on"
+                    />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/pmw"
+                android:layout_below="@id/pmc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@android:color/white">
+                <ImageView
+                    android:id="@+id/wimage"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/withdrawal"/>
+
+                <TextView
+                    android:id="@+id/wtitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/wimage"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/withdrawal"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/wdesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/wimage"
+                    android:layout_below="@id/wtitle"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="50dp"
+                    android:textColor="@color/textGray"
+                    android:text="@string/withdrawal_desc" />
+
+                <ImageView
+                    android:id="@+id/selectWithdrawal"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/select_off"
+                    />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/pml"
+                android:layout_below="@id/pmw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@android:color/white">
+                <ImageView
+                    android:id="@+id/limage"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/loan"
+                    android:layout_centerVertical="true"/>
+
+                <TextView
+                    android:id="@+id/ltitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/limage"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/auto_loan"
+                    android:textColor="@android:color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/ldesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/limage"
+                    android:layout_below="@id/ltitle"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="50dp"
+                    android:textColor="@color/textGray"
+                    android:text="@string/apply_loan" />
+
+                <ImageView
+                    android:id="@+id/selectLoan"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/select_off"
+                    />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btnContinueCheckout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/buttonGreen"
+            android:text="@string/continue_checkout"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+
+</FrameLayout>

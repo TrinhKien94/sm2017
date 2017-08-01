@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_up_blue_soft.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\drawable-xxhdpi\\ic_arrow_up_blue_soft.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_up_gray_soft.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\drawable-xxhdpi\\ic_arrow_up_gray_soft.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back.png",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_up_gray.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\drawable-xxhdpi\\ic_arrow_up_gray.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back.png",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_up_blue.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\drawable-xxhdpi\\ic_arrow_up_blue.png"
+    }
+]

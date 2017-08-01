@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

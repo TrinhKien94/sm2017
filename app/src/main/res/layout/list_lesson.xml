@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dip">
+
+
+    <LinearLayout android:orientation="vertical"
+        android:id="@+id/layout_tv_ls"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dip"
+        android:layout_toLeftOf="@+id/tv_status"
+        android:layout_toRightOf="@+id/img_location"
+        android:layout_toEndOf="@+id/img_location">
+
+        <TextView android:textStyle="bold"
+            android:id="@+id/tv_name_lesson"
+            android:text="Super Minion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip">
+        </TextView>
+
+        <TextView android:text="Hãng phim truyện nhựa Việt Nam"
+            android:id="@+id/tv_class_lesson"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:singleLine="true" android:padding="1px"
+            android:textColor="#72A8C6"></TextView>
+        <TextView
+            android:id="@+id/tv_studentid"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="Số 43 Nguyễn Chí Thanh, Hà Nội"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="right">
+
+        <Button
+            android:id="@+id/btn_list_lesson"
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|fill_vertical"
+            android:gravity="right|center_horizontal|fill"
+            android:padding="5dip"
+            android:singleLine="true"
+            android:text="Next" />
+    </LinearLayout>
+</LinearLayout>

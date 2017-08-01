@@ -1,0 +1,187 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.sm.cmcglobal.fragments.ProductFragment">
+
+    <ScrollView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.daimajia.slider.library.SliderLayout
+                android:id="@+id/slider"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                />
+
+            <com.daimajia.slider.library.Indicators.PagerIndicator
+                android:id="@+id/custom_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_alignBottom="@id/slider"
+                android:gravity="center"
+                />
+
+            <!--<ImageView-->
+            <!--android:id="@+id/image"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:src="@drawable/sample1"-->
+            <!--android:scaleType="centerCrop"/>-->
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/car_title"
+                android:textColor="@android:color/white"
+                android:layout_alignBottom="@id/slider"
+                android:layout_marginBottom="50dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="25sp"/>
+
+            <TextView
+                android:id="@+id/imageCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sample_pictures"
+                android:textColor="@android:color/white"
+                android:layout_alignBottom="@id/slider"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="20dp"
+                android:drawableLeft="@drawable/icon_pic"
+                android:textSize="15sp"/>
+
+
+
+            <ImageView
+                android:id="@+id/btnFav"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/slider"
+                android:layout_alignRight="@id/slider"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/icon_fav_empty"
+                />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/slider"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+                <ImageView
+                    android:id="@+id/iconDoc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_doc"/>
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/iconDoc"
+                    android:layout_marginLeft="20dp">
+
+                    <TextView
+                        android:id="@+id/publishedTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/published"
+                        android:textColor="@color/textGray"/>
+                    <TextView
+                        android:id="@+id/published"
+                        android:layout_below="@id/publishedTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/sample_date"
+                        android:layout_marginTop="0dp"
+                        android:textColor="@android:color/black"
+                        android:textSize="18sp"/>
+
+                    <Button
+                        android:id="@+id/btnPrice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/car_price"
+                        android:background="@color/priceBtn"
+                        android:textColor="@android:color/white"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp"
+                        android:layout_alignParentRight="true"/>
+
+                    <TextView
+                        android:id="@+id/aboutTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/about_car"
+                        android:layout_below="@id/published"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/textGray"/>
+                    <TextView
+                        android:id="@+id/about"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/sample_about"
+                        android:layout_below="@id/aboutTitle"
+                        android:layout_marginTop="10dp"
+                        android:singleLine="false"
+                        android:textColor="@android:color/black"/>
+                    <TextView
+                        android:id="@+id/manufacturerTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/about"
+                        android:layout_marginTop="15dp"
+                        android:text="@string/manufacturer"
+                        android:textColor="@color/textGray"/>
+                    <TextView
+                        android:id="@+id/manufacturer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/manufacturerTitle"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/sample_brand_name"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/idTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/manufacturer"
+                        android:layout_marginTop="15dp"
+                        android:text="@string/car_id"
+                        android:textColor="@color/textGray"/>
+                    <TextView
+                        android:id="@+id/carId"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/idTitle"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/sample_tid"
+                        android:textColor="@android:color/black"/>
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/fab_margin"
+                app:fabSize="normal"
+                android:src="@drawable/icon_add_cart"
+                android:scaleType="fitCenter" />
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

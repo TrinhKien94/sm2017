@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\resultset_next_icon.png",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\mipmap-mdpi\\resultset_next_icon.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\resultset_next_icon.png",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\mipmap-mdpi\\resultset_next_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_next.png",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_next.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\resultset_next_icon.png",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\mipmap-mdpi\\resultset_next_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_next.png",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\mipmap-mdpi\\icon_next.png"
+    }
+]

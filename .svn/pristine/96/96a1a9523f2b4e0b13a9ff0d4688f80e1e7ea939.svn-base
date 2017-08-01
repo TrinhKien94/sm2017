@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\text_calendar.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\bundles\\debug\\res\\color\\text_calendar.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\text_calendar.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\debug\\res\\color\\text_calendar.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\text_calendar.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\debug\\res\\color\\text_calendar.xml"
+    }
+]

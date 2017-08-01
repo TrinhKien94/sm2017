@@ -1,0 +1,415 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sm.cmcglobal.fragments.PurchaseCompleteFragment">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        android:paddingBottom="10dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="700dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/productImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:src="@drawable/sample1"
+                    android:scaleType="fitStart"/>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/approved"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="30dp"
+                    />
+            </RelativeLayout>
+            <com.sm.cmcglobal.CarScroll
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:nestedScrollingEnabled="true"
+                android:layout_marginTop="200dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="10dp"
+                    android:background="@android:color/white">
+
+                    <RelativeLayout
+                        android:id="@+id/transactionInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <ImageView
+                            android:id="@+id/tinfoImage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="30dp"
+                            android:src="@drawable/info"/>
+                        <TextView
+                            android:id="@+id/tinfo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:text="@string/sample_transaction"
+                            android:textColor="@color/textPink"
+                            android:textSize="20sp"/>
+                        <TextView
+                            android:id="@+id/tinfodesc"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/tinfo"
+                            android:layout_marginLeft="50dp"
+                            android:layout_marginTop="15dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/congradulations"
+                            android:singleLine="false"/>
+                        <View
+                            android:id="@+id/tinfoSeparator"
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:background="@android:color/darker_gray"
+                            android:layout_below="@id/tinfodesc"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="50dp"/>
+
+
+
+                        <ImageView
+                            android:id="@+id/cinfoImage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/tinfoSeparator"
+                            android:layout_marginRight="30dp"
+                            android:layout_marginTop="20dp"
+                            android:src="@drawable/car"/>
+
+                        <TextView
+                            android:id="@+id/vehicle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/tinfoSeparator"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/vehicle"/>
+                        <TextView
+                            android:id="@+id/lbvehicle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/vehicle"
+                            android:layout_marginTop="5dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/car_title"/>
+
+                        <TextView
+                            android:id="@+id/prize"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_toRightOf="@id/vehicle"
+                            android:layout_below="@id/tinfoSeparator"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="110dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/prize"/>
+                        <TextView
+                            android:id="@+id/lbprize"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_toRightOf="@id/vehicle"
+                            android:layout_below="@id/prize"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="110dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/car_price"/>
+
+                        <TextView
+                            android:id="@+id/manufacturer"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/lbvehicle"
+                            android:layout_marginTop="20dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/manufacturer"/>
+                        <TextView
+                            android:id="@+id/lbmanufacturer"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/manufacturer"
+                            android:layout_marginTop="5dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_brand_name"/>
+
+                        <TextView
+                            android:id="@+id/carid"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/lbprize"
+                            android:layout_marginTop="20dp"
+                            android:layout_alignLeft="@id/prize"
+                            android:textColor="@color/textGray"
+                            android:text="@string/car_id"/>
+                        <TextView
+                            android:id="@+id/lbcarid"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/carid"
+                            android:layout_marginTop="5dp"
+                            android:layout_alignLeft="@id/prize"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_car_id"/>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:background="@android:color/darker_gray"
+                            android:layout_below="@id/lbcarid"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="50dp"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/paymentInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/transactionInfo"
+                        android:layout_marginTop="15dp">
+                        <ImageView
+                            android:id="@+id/tinfoPaymentImage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="30dp"
+                            android:src="@drawable/loan_icon"/>
+                        <TextView
+                            android:id="@+id/tinfoPayment"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/total" />
+                        <TextView
+                            android:id="@+id/lbPayment"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/tinfoPayment"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_monthly"
+                            android:textStyle="bold"/>
+
+
+                        <TextView
+                            android:id="@+id/loanRatio"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/lbPayment"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/loan_ratio" />
+                        <TextView
+                            android:id="@+id/lbLoanRatio"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/loanRatio"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_total_payment" />
+
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:background="@android:color/darker_gray"
+                            android:layout_below="@id/lbLoanRatio"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="50dp"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/personalInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/paymentInfo"
+                        android:layout_marginTop="15dp">
+                        <ImageView
+                            android:id="@+id/personImage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="30dp"
+                            android:src="@drawable/personal"/>
+                        <TextView
+                            android:id="@+id/fullName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/full_name" />
+                        <TextView
+                            android:id="@+id/lbFullName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/fullName"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_username" />
+
+
+                        <TextView
+                            android:id="@+id/gender"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/lbFullName"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/gender" />
+                        <TextView
+                            android:id="@+id/lbGender"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/gender"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_gender" />
+
+                        <TextView
+                            android:id="@+id/birthDate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/lbGender"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/birth_date_caps" />
+                        <TextView
+                            android:id="@+id/lbBirthDate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/birthDate"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_birth" />
+
+                        <TextView
+                            android:id="@+id/occupation"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/lbBirthDate"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/occupation" />
+                        <TextView
+                            android:id="@+id/lbOccupation"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/occupation"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_occupation" />
+
+                        <TextView
+                            android:id="@+id/phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:layout_below="@id/lbOccupation"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/phone_number" />
+                        <TextView
+                            android:id="@+id/lbPhone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/phone"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_address_1" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:background="@android:color/darker_gray"
+                            android:layout_below="@id/lbPhone"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="50dp"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/residenceInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/personalInfo"
+                        android:layout_marginTop="15dp"
+                        android:paddingBottom="20dp">
+                        <ImageView
+                            android:id="@+id/residenceImage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="30dp"
+                            android:src="@drawable/address"/>
+                        <TextView
+                            android:id="@+id/residence"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@color/textGray"
+                            android:text="@string/residence_address" />
+                        <TextView
+                            android:id="@+id/lbResidence"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/residence"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_address_2" />
+
+                        <TextView
+                            android:id="@+id/lbResidence2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/lbResidence"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_address_3" />
+
+                        <TextView
+                            android:id="@+id/lbResidence3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/lbResidence2"
+                            android:layout_marginLeft="50dp"
+                            android:textColor="@android:color/black"
+                            android:text="@string/sample_address_4" />
+
+
+
+
+                    </RelativeLayout>
+                </RelativeLayout>
+
+            </com.sm.cmcglobal.CarScroll>
+
+        </RelativeLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</FrameLayout>

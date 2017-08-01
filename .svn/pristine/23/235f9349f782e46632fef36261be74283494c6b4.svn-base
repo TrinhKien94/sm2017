@@ -1,0 +1,1254 @@
+[
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_purchase_success.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\dialog_purchase_success.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\adfaa7e66f3afd2f0d1ea276cd65e772094e2d95\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\product_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_error.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_dropdown_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\date_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\736ab817cb221c983c6e185c0a3e6a40ca926e3f\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_top.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\list_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cart_delete.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\dialog_cart_delete.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_student.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\list_student.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_filter.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_filter.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_layout.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_purchase_complete.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_purchase_complete.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_2.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\roboto_calendar_week_2.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_filter.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_filter.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_title_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\custom_calendar_title_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\70e5d99cd4c371995ca407f6f872d724a9f35a35\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_checkout.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_purchase_complete.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_purchase_complete.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_checkout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\70e5d99cd4c371995ca407f6f872d724a9f35a35\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_layout.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_layout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_top.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\item_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_purchase_success.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\dialog_purchase_success.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week_layout.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lesson.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\lesson.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\date_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_purchase_success.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\dialog_purchase_success.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_layout.xml",
+        "source": "D:\\CMCAppSM\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_purchase_complete.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_purchase_complete.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_layout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\date_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\adfaa7e66f3afd2f0d1ea276cd65e772094e2d95\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\brand.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_status_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\product_status_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_student.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\list_student.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_checkout.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_product_list.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_5.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\roboto_calendar_week_5.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\product_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_error.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\brand.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_lesson.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\list_lesson.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_top.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\list_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_list_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\student_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_4.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\roboto_calendar_week_4.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_login.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_loan.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_error.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_login.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_list_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\student_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\736ab817cb221c983c6e185c0a3e6a40ca926e3f\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\736ab817cb221c983c6e185c0a3e6a40ca926e3f\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_product_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_weeks_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\custom_calendar_weeks_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_status_dropdown_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\product_status_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_1.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\roboto_calendar_week_1.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_student_list.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_student_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\70e5d99cd4c371995ca407f6f872d724a9f35a35\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_dropdown_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\date_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week_layout.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_top.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\list_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lession.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\item_lession.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_lesson.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\list_lesson.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_student.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\list_student.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\736ab817cb221c983c6e185c0a3e6a40ca926e3f\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_status_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\product_status_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_student_list.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_student_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\adfaa7e66f3afd2f0d1ea276cd65e772094e2d95\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_3.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\roboto_calendar_week_3.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_top.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\item_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week_layout.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cart_delete.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\dialog_cart_delete.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\student.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_loan.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\date_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lesson.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\lesson.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_loan.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_top.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\item_top.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_status_dropdown_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\product_status_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_status_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\product_status_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roboto_calendar_week_6.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\roboto_calendar_week_6.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\brand.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_layout.xml",
+        "source": "E:\\Android\\StudentM-master\\CollapseCalendarView\\build\\intermediates\\bundles\\default\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_product_list.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_login.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_dropdown_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\date_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lesson.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\lesson.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_lesson.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\list_lesson.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_list_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\student_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_product.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list_item.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\product_list_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_calendar_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\83a6bcab49c37947f723bb3583cde64554f30e25\\output\\res\\layout\\custom_calendar_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cart_delete.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\dialog_cart_delete.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lession.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\item_lession.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\70e5d99cd4c371995ca407f6f872d724a9f35a35\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_filter.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\fragment_filter.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\ff81e4d735b3e69e6f440385f70fd8ffb3af5b2c\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_student_list.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_student_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lession.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\item_lession.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\adfaa7e66f3afd2f0d1ea276cd65e772094e2d95\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_item.xml",
+        "source": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\src\\main\\res\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "E:\\Android\\StudentM-master\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\ad0dd0d1c92ecadba4852840c21b539c594aa10e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_status_dropdown_item.xml",
+        "source": "D:\\CMCAppSM\\app\\src\\main\\res\\layout\\product_status_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\CMCAppSM\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0ba73cde8cffedd20728a5c216c7ef82b3f4d6f9\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Quan Lee\\.android\\build-cache\\a4be09a2d9d3562215ddd1230dc8dadda7e688b3\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\15fb3e45fd532e6088315c6956563363bc63a4e0\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\vinhln\\AndroidStudioProjects\\StudentM-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Users\\vinhln\\.android\\build-cache\\8fc9375ce6c5877a5b74ca5d64267e78903805b4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]

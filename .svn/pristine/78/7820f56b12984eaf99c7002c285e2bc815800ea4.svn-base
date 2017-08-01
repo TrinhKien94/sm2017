@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\CMCAppSM\volley\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\CMCAppSM\app\build\intermediates\pre-dexed\debug\volley_5377c6bfce27a21f0a793ffc200432663ac1dcec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\6b3852f640c6ae7f4b7e0911f3970dec475469fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0df3bf618b078d102a4234ceff33c44026e64b9">
+        <dex dex="D:\CMCAppSM\app\build\intermediates\pre-dexed\debug\classes_436fc6c082e864548d80c1fe9617abe54b701d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2dea2dc815ab76484f86977d096c464a2f246e08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8f19036e690aaf0676a0926db48e3ebaeb12fe4">
+        <dex dex="D:\CMCAppSM\app\build\intermediates\pre-dexed\debug\classes_1947795eaf373936a9a698929e0291bdfe60f109.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kl/AndroidStudioProjects/Android-application/volley/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/kl/AndroidStudioProjects/Android-application/app/build/intermediates/pre-dexed/debug/volley_e0a63959a89bec4d7be386c94d5ee429c2b22097.jar" />
+    </item>
+
+</items>
